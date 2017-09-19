@@ -7,5 +7,6 @@
 1. En la configuracion inicial del proyecto MVC en el apartado **Change Authentication** cambiar la confuración por   
 ** Individual User Accounts **.
 
+> **Nota Importante:** no olvidar de compilar la solución. 
 
 ### Editando cadena de conexión
