@@ -50,7 +50,7 @@ namespace InicioSesionMVC
                 RequireUniqueEmail = true
             };
 
-            // Configure validation logic for passwords (cambiado)
+            // Configure validation logic for passwords
             manager.PasswordValidator = new PasswordValidator
             {
                 RequiredLength = 6,
